@@ -30,7 +30,11 @@
 - 📫 How to reach me **vaibhavanu1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
+  <a href="https://instagram.com/vm_vaibhav_06" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
