@@ -39,14 +39,15 @@ Aspiring Data Engineer • Passionate Developer • C++ Enthusiast
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavm0027&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavm0027&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavm0027&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavm0027&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavm0027" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavm0027&theme=default" />
 </p>
