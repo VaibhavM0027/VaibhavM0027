@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)](https://github.com/VaibhavM0027)
 
-<h1 align="center">Hi 👋, I'm Vaibhav.M</h1>
+<h1 align="center">Hi There 👋, I'm Vaibhav.M</h1>
 <h3 align="center">Currently Pursuing a Bachelor of Engineering (B.E.) in Computer Science at BMS Institute of Technology and Management (BMSIT).</h3>
 
 <p align="left"> 
@@ -21,11 +21,11 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning **C++, Java**
+- 🌱 I’m currently learning **C++,C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaibhavM0027](https://github.com/VaibhavM0027)
 
-- 💬 Ask me about **Arduino, Firebase, Python, C++**
+- 💬 Ask me about **Arduino,ESP8266,RASBERRY PICO W, Firebase, Python, C++,C,SQL**
 
 - 📫 How to reach me **vaibhavanu1234@gmail.com**
 
